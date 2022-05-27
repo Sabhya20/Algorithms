@@ -10,11 +10,11 @@ public class NinthProject {
 		Scanner scan = new Scanner(System.in);
 		String a,b,c;
 		
-		System.out.println("Enter first Letter");
+		System.out.println("Enter first Sentence");
 		a=scan.next();
-		System.out.println("Enter second Letter");
+		System.out.println("Enter second Sentence");
 		b=scan.next();
-		System.out.println("Enter third Letter");
+		System.out.println("Enter third Sentence");
 		c=scan.next();
 		
 		 // Creating an array list
